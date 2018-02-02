@@ -1,3 +1,8 @@
+⚠️Exercices No 3 dans le repo https://github.com/Alikae/The_Hacking_News ⚠️
+
+
+
+
 # Database Relationship Patterns - Practice
 # Schémas Relationnels de Base de Données - Entraînement
 
